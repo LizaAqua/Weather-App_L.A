@@ -43,7 +43,7 @@ padding: 15px 30px;
 
 .weather-app-data {
   justify-content: space-between;
-  display: flex;
+  display: inline-flex;
 
  
 }
