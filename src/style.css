@@ -6,11 +6,9 @@ body {
 }
 
 .weather-app {
-  background: white;
-  margin-width: 300px;
-  margin: 30px auto;
+ background: white;
+  margin: auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
-  border-radius: 16px;
+  border-radius: 1px;
   padding: 30px;
-  
 }
