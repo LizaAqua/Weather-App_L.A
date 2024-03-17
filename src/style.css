@@ -1,13 +1,13 @@
+
 body {
-    background-color: #f9f7fe;
+  background-color: #f9f7fe;
   font-family: "Quando", serif;
+
 }
 
 .weather-app {
-    background:white;
-    max-width:600px;
-    margin:auto
-    padding: 35 px;
-    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
-    border-radius: 15px;
+  background: white;
+  max-width: 600px;
+  margin: 0 auto;
+  
 }
