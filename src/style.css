@@ -22,3 +22,10 @@ font-size: 17px;
 width: 84%;
 padding: 15px 20px;
 }
+.search-form-button{
+  background: darkgoldenrod
+  padding: 15px 20px;
+  border: none;
+  border-radius: 7px;
+  color: white;
+}
