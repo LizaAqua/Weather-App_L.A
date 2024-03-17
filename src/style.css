@@ -7,8 +7,6 @@ body {
 
 .weather-app {
   background: white;
-  margin:0; 
-  padding: 0;
-  padding-top: 10px ;
-  text-align: center; 
+  max-width: 600px;
+  margin: 0 auto; 
 }
