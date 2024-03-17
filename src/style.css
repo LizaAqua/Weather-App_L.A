@@ -1,12 +1,12 @@
 
 body {
-  background-color: #ffcab0;
+  background-color: #53a8b6;;
   font-family: "Quando", serif;
 
 }
 
 a {
-  color:darkgoldenrod ;
+  color:#5585b5;
 }
 
 .weather-app {
@@ -23,7 +23,7 @@ header {
   padding: 0 0 40px 0;
 }
 .search-form-input{
-background-color:#ffcab0
+background-color:#53a8b6;
 border: none;
 border-radius: 7px;
 font-size: 17px;
@@ -31,7 +31,7 @@ width: 84%;
 padding: 15px 30px;
 }
 .search-form-button{
-  background-color: darkgoldenrod;
+  background-color: #5585b5;
   padding: 15px 30px
   border: none;
   margin-left: 5px;
