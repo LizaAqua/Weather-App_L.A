@@ -1,6 +1,6 @@
 
 body {
-  background-color:#bbe4e9;
+  background-color: #79c2d0;
   font-family: "Quando", serif;
 
 }
@@ -10,7 +10,7 @@ a {
 }
 
 .weather-app {
-  background:#79c2d0;
+  background:#bbe4e9;
   max-width: 600px;
   margin: 45px auto; 
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
