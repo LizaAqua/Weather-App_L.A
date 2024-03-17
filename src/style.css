@@ -1,6 +1,6 @@
 
 body {
-  background-color: #53a8b6;
+  background-color:#bbe4e9;
   font-family: "Quando", serif;
 
 }
@@ -23,7 +23,7 @@ header {
   padding: 0 0 40px 0;
 }
 .search-form-input{
-background-color:white;
+background-color:#bbe4e9;
 border: none;
 border-radius: 7px;
 font-size: 17px;
