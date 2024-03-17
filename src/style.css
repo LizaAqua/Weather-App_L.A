@@ -14,6 +14,11 @@ body {
   border-radius: 15px;
 }
 
+header {
+  border-bottom: 1px solid #ffcab0;
+  padding: 0 0 30 px 0;
+
+}
 .search-form-input{
 background-color:#ffcab0
 border: none;
