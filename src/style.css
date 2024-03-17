@@ -19,7 +19,7 @@ a {
 }
 
 header {
-  border-bottom: 1px solid#53a8b6;
+  border-bottom: 1px solid #bbe4e9;
   padding: 0 0 40px 0;
 }
 .search-form-input{
@@ -48,7 +48,7 @@ padding: 15px 30px;
  
 }
 footer {
-  border-top: 1px solid#53a8b6;
+  border-top: 1px solid#bbe4e9;
   padding: 40px 0 0 0;
   text-align: center;
   font-size: 11px;
