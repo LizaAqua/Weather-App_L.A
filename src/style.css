@@ -13,3 +13,11 @@ body {
   padding: 30px;
   border-radius: 15px;
 }
+
+.search-form-input{
+background-color: #f9f7fe;
+border: none;
+border-radius: 7px;
+width: 84%;
+padding: 15px 20px;
+}
