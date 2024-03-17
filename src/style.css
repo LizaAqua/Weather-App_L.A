@@ -42,8 +42,9 @@ padding: 15px 30px;
 }
 
 .weather-app-data {
-  display: inline-flex;
   justify-content: space-between;
+  display: flex;
+
  
 }
 footer {
