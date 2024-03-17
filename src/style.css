@@ -15,8 +15,8 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #ffcab0;
-  padding: 0 10px 0 ;
+  border-bottom: 0.5px solid #ffcab0;
+
 
 }
 .search-form-input{
