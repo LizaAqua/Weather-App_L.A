@@ -40,6 +40,11 @@ padding: 15px 30px;
   border: none;
   color: white;
 }
+
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+}
 footer {
   border-top: 1px solid#53a8b6;
   padding: 40px 0 0 0;
