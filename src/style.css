@@ -5,6 +5,10 @@ body {
 
 }
 
+a {
+  color:darkgoldenrod ;
+}
+
 .weather-app {
   background:#fdffcd;
   max-width: 600px;
