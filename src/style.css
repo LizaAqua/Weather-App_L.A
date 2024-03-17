@@ -6,7 +6,7 @@ body {
 }
 
 .weather-app {
-  background: #e0ffcd;
+  background: #fdffcd;
   max-width: 600px;
   margin: 45px auto; 
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -15,7 +15,7 @@ body {
 }
 
 .search-form-input{
-background-color: #ffcab0;
+background-color: #fdffcd;
 border: none;
 border-radius: 7px;
 font-size: 17px;
