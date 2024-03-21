@@ -45,9 +45,6 @@ padding: 30px 50px;
 }
 
 
-
-}
-
 main {
   padding: 30px 0;
 }
@@ -68,6 +65,8 @@ main {
   color: rgba(39, 33, 66, 0.4);
   line-height: 24px;
   font-weight: 500;
+  font-family: "Quando", serif, italic;
+
 }
 
 .weather-app-details strong {
