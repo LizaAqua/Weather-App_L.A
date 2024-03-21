@@ -73,10 +73,8 @@ main {
   color: #f65282;
  
 }
-
-.weather-app-container {
- justify-content: space-between;
-  display:block;
+.weather-app-temperature-value {
+  font-size: 20px;
 }
 footer {
   border-top: 1px solid#79c2d0;;
