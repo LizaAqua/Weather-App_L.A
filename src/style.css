@@ -41,6 +41,8 @@ header {
   border-radius: 6px;
   color: white;
 
+
+
 }
 
 main {
@@ -76,7 +78,7 @@ main {
 
 
 .weather-app-temperature {
-  font-size: 45px;
+  font-size: 35px;
   line-height: 30px;
   font-weight: bold;
 }
