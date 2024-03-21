@@ -72,11 +72,6 @@ main {
 .weather-app-details strong {
   color: #f65282;
  
-.weather-app-temperature{
-   font-size: 40px;
-  line-height: 40px;
-  font-weight: bold;
-
 }
 footer {
   border-top: 1px solid#79c2d0;;
