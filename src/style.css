@@ -16,7 +16,9 @@ a {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   padding: 40px;
   border-radius: 15px;
+  text-align: left;
 }
+
 
 header {
   border-bottom: 1px solid #79c2d0;
