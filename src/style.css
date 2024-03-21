@@ -50,7 +50,7 @@ main {
 .weather-app-data {
   justify-content: space-between;
   display:flex;
-  margin-bottom:flex
+  margin-down:30px;
   
 
  
@@ -73,7 +73,7 @@ main {
 
 .weather-app-details strong {
   color: #f65282;
-  text-align: left;
+ 
 
 }
 footer {
