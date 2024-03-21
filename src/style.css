@@ -75,7 +75,7 @@ main {
 }
 
 .weather-app-container {
-  display: inline;
+ display: inline-flex;
 }
 footer {
   border-top: 1px solid#79c2d0;;
