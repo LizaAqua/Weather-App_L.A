@@ -50,11 +50,7 @@ main {
   display:flex;
   font-family: "Quando", serif, italic;
   
-.weather-app-temperature {
-  font-size: 88px;
-  line-height: 88px;
-  font-weight: bold;
-}
+
  
 }
 
@@ -76,7 +72,9 @@ main {
 .weather-app-details strong {
   color: #f65282;
  
-
+weather-app-temperature{
+  font-size: 45px;
+}
 }
 footer {
   border-top: 1px solid#79c2d0;;
