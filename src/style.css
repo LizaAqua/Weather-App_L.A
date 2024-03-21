@@ -76,7 +76,7 @@ main {
 
 .weather-app-container {
  justify-content: space-between;
-  display:flex;
+  display:block;
 }
 footer {
   border-top: 1px solid#79c2d0;;
