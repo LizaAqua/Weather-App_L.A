@@ -65,7 +65,7 @@ main {
 
 .weather-app-icon{
 margin-left: 35%;
-
+display: flex;
 
 }
 .weather-app-details {
