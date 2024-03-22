@@ -60,6 +60,7 @@ main {
   font-size: 30px;
   line-height: 28px;
   display: inline-block; 
+  white-space: nowrap;
 }
 
 .weather-app-icon{
