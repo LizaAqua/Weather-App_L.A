@@ -1,1 +1,1 @@
-alert( Hey! How's it going?)
+Alert("Hey! How's it going")
