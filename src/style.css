@@ -4,15 +4,6 @@ body {
 
 }
 
-h1 {
-    display: block;
-    font-size: 16px;
-    margin-block-start: 10em;
-    margin-block-end: em;
-    margin-inline-start: -50%;
-    margin-inline-end: -50%;
-    font-weight: bold;
-}
 
 a {
   color:#5585b5;
@@ -78,7 +69,7 @@ margin-left: 65%;
 
 }
 .weather-app-details {
-  margin-top: -10%;
+  margin-top: -20%;
   font-size: 14px;
   color: rgba(39, 33, 66, 0.4);
   line-height: 24px;
