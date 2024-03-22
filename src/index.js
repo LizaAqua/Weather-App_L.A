@@ -1,1 +1,1 @@
-Alert("Hey! How's it going");
+alert("Hey! How's it going");
