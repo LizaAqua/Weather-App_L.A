@@ -62,7 +62,7 @@ main {
 }
 
 .weather-app-icon{
-float: right;
+float: 50%;
 
 }
 .weather-app-details {
