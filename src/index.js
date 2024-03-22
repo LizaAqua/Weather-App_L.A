@@ -1,6 +1,7 @@
 function refreshWeather(response) {
     let temperatureElement = document.querySelector("#temperature");
-    temperatureElement.innerHTML = response.data;
+
+console.log(response.data.temperature.current);
 }
 
 
