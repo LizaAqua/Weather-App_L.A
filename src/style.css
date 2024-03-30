@@ -63,11 +63,12 @@ main {
   white-space: nowrap;
 }
 
-.weather-app-icon{
-margin-left: 35%;
-
-
+.weather-app-icon {
+  width: 88px;
+  height: 88px;
 }
+
+
 .weather-app-details {
   margin-top: -10%;
   font-size: 14px;
