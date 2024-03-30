@@ -62,8 +62,8 @@ main {
 }
 
 .weather-app-icon {
-  margin-top:auto%;
-
+  margin-left:auto;
+height: fit-content;
   
 }
 
