@@ -23,6 +23,14 @@ function refreshWeather(response) {
 
 }
 
+function formatDate(date) {
+  let days = date.getDay();
+let minutes = date.getMinutes();
+  let hours = date.getHours();
+  
+return"Tuesday 18:48"
+
+}
 
 function searchCity(city) {
   let apiKey="abfec4b8be01abt65a50c3e50o5aa3d7"
