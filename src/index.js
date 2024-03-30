@@ -15,7 +15,7 @@ function refreshWeather(response) {
     
     cityELement.innerHTML= response.data.city;
     descriptionElement.innerHTML = response.data.condition.description;
-    timeElement.innerHTML = `${date.getDate()} ${date.getHours()}:${date.getMinutes() < 10 ? '0' : ''}${date.getMinutes()}`;
+    timeElement.innerHTML = function formatDate(date)
   humidityElement.innerHTML = `${response.data.temperature.humidity}%`;
    windSpeedElement.innerHTML = `${response.data.wind.speed}km/h`;
     temperatureElement.innerHTML= Math.round(temperature);
@@ -24,11 +24,20 @@ function refreshWeather(response) {
 }
 
 function formatDate(date) {
-  let days = date.getDay();
+  let days = [date.getDay()];
 let minutes = date.getMinutes();
   let hours = date.getHours();
+  let days = [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+  ];
   
-return"Tuesday 18:48"
+return= `${day} ${hour}:${minutes}`;
 
 }
 
