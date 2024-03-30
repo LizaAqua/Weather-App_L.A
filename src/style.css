@@ -75,6 +75,12 @@ main {
   font-weight: 500;
 }
 
+.img{
+overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x: ;
+    overflow-y: ;
+}
 .weather-app-details strong {
   color: #f65282;
  
