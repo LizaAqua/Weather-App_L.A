@@ -8,10 +8,8 @@ function refreshWeather(response) {
     console.log(response.data.condition.description);
     cityELement.innerHTML= response.data.city;
     descriptionElement.innerHTML=response.data.condition.description;
-    humidityElement.innerHTML=${response.data.temperature.humidity}%;
+    humidityElement.innerHTML='${response.data.temperature.humidity}%';
     temperatureElement.innerHTML= Math.round(temperature);
-
-    console.log(response.data.condition.description); cityElement.innerHTML = response.data.city; descriptionElement.innerHTML = response.data.condition.description; humidityElement.innerHTML = ${response.data.temperature.humidity}%; temperatureElement.innerHTML = Math.round(temperature);
 
 
 }
