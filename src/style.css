@@ -64,7 +64,9 @@ main {
 }
 
 .weather-app-icon {
-  margin-left: 35%;
+  margin-left: 25%;
+  line-height: 88px;
+  height:88px;
 }
 
 
@@ -72,7 +74,7 @@ main {
   margin-top: -10%;
   font-size: 14px;
   color: rgba(39, 33, 66, 0.4);
-  line-height: 24px;
+  line-height: 88px;
   font-weight: 500;
 }
 
