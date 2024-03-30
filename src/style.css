@@ -63,7 +63,7 @@ main {
 
 .weather-app-icon {
   margin-left:auto;
-height: fit-content;
+height: 100%;
   
 }
 
