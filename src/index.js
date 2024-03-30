@@ -6,9 +6,10 @@ function refreshWeather(response) {
     let humidityELement= document.querySelector ("#humidity");
 
     console.log(response.data.condition.description);
+    
     cityELement.innerHTML= response.data.city;
-    descriptionElement.innerHTML=response.data.condition.description;
-    humidityElement.innerHTML=response.data.temperature.humidity;
+    descriptionElement.innerHTML = response.data.condition.description;
+  humidityElement.innerHTML = `${response.data.temperature.humidity}%`;
     temperatureElement.innerHTML= Math.round(temperature);
 
 
